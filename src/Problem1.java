@@ -4,7 +4,7 @@ public class Problem1 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int z;
+        int z = 0;
         int y;
         int x;
         int count = 0;
