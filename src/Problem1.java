@@ -20,7 +20,7 @@ public class Problem1 {
 
 
             if (count % 3 == 0 && count % 2 != 0) {
-                System.out.println(count);
+                System.out.println(count +  " is a multiple of 3");
 
 
 
